@@ -1,7 +1,7 @@
 /*----------------------------------------------------------------
- *  Author:        Konidaris Vissarion
- *  Written:       16/5/2017
- *  Last updated:  1/6/2017
+ *  Author:      Xinyu Li
+ *  Written:       4/10/2020
+ *  Last updated:  4/20/2020
  *
  *  Execution:     hadoop jar JarName.jar input_file_1X.csv OutputFileName.csv NumberOfPartions random/angle Dimensions
  *  

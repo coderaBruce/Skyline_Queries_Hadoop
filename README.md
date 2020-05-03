@@ -1,14 +1,12 @@
-# Skyline Queries with Hadoop MapReduce
-In the context of "Advanced Topics in Database Systems" course
-Technical University of Crete
-
-Input files available here 
-```
-https://www.dropbox.com/sh/wygdm7v9ex3avaf/AACNpEUHhjYQ2k0yNJ3rUbB4a?dl=0
-```
+# Skyline Queries with Hadoop for Apartment Selection
+In the context of "Big Data Analytics" course
+Kent State University
+@author Xinyu Li, Hailong Jiang
 
 To execute with jar type
 ```
+First upload input files to HDFS,then:
+
 hadoop jar JarName.jar input_file_1X.csv OutputFileName.csv NumberOfPartions random/angle Dimensions
 ```
 
